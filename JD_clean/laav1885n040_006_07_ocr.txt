@@ -1,0 +1,2 @@
+Olu vecuma prove.
+Izkausē iekš '/? stopa ūdena 6 lotis sāls. un ielcec šini iztausejumā promejamo olu. Ja ola tai pašā dienā dēta, tad ta līdz trauka dibinām nogrimst, ja ta dienu veca. tad ta nenogrimst līdz dibinām, ja trīs dienas veca. tad ta nogrimst līdz pusei, un ja 5 un mairak dienu veca. tad ta peld līdz šķidruma mirsum. — un jo vecata ola, jo mairak ta mirs šķidruma paceļās. . c—-

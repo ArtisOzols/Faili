@@ -1,0 +1,57 @@
+par:
+Labbibas un preccu tirgus Rīgā tai 266. Merc 1853 gaddā.
+M alsaja
+pūvu rudsll .....
+" kmccšu
+nlcts6)ll ....
+v ausu
+klvtešu-iuiltu . . mccšu-putrailnu
+,, bīdelctu niosuniillu " sirņu
+" limuisēklas . . . par.' !
+1 1
+2 2 !
+2 2
+00 40 l&gt;0 50 30 00 50
+M alsaja
+pūvu rudsll .....
+" kmccšu
+nlcts6)ll ....
+v ausu
+klvtešu-iuiltu . .
+mccšu-putrailnu ,, bīdelctu niosuniillu
+" sirņu
+" limuisēklas . . .
+B r i lc v d , n k k tl, t.
+No jichniuiunb'gudtniniitlits augstab tvaldišanad pnssrS-. Csļiccciemath v. Bla"Nšvtii?i, Ccusoi
+par.'
+M a ksaj a par:
+I podu liimu
+l , stvccsta ....
+! " cūku-gaļtas , . . l . dzĢ i " tabaka I mliV silku
+! " sarkanas sabls . . l , baltas rupjas sāls. 1 " , smalkas , . 2 ļ
+ļtt 0 4 4
+K
+S0 75 00 50 20
+!
+1 1
+2 2 !
+2 2
+00 40 l&gt;0
+50 30 00
+50
+M a ksaj a
+I podu liimu
+l , stvccsta ....
+! " cūku-gaļtas , . .
+l . dzĢ
+i " tabaka
+I mliV silku
+! " sarkanas sabls . .
+l , baltas rupjas sāls.
+1 " , smalkas , .
+2 ļ
+ļtt 0 4 4
+K
+S0
+75 00
+50 20

@@ -1,0 +1,4 @@
+Matematisks ucdevums.
+Şchi kvadrata tuļšajās rūtīs ir jasakārto tie skaitļi no 1 līdz 64 tā. ka. visadi skaitot (tiklab no augšas uz avakšu un no kreisās uz labo roku. kā ari krustiem), iznāt 260.
+(Jsnākums 43. nummurā.)
+Şastādijis s. Blaubergs.
