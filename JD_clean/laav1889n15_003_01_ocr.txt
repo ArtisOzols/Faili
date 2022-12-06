@@ -1,5 +1,0 @@
-Matematisks ucdevums.
-No Th. Kresse's un Pētera Pulkovska.
-(Jsnākums 17. nummurā.)
-Iekš ši kvadrata 24 tukšajām vietām tie skaitļi 1, 1, 3, 4, 4, 5, 5, 5, 6. 6. 7, 7, 8, 8, 9,
-tā jasastāda, ka tais sešās rindās, no augšas uz apakšu vaj krustiem un šķērsam skaitot, iznāk 40.

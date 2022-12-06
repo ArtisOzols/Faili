@@ -1,3 +1,0 @@
-Matematisks ucdevums.
-sirgu anvelmanis pērk ausās priekš saviem "t5 sirgiem. un izrēķma. ka. ja tas ikkatru dienu katram sirgām 2/2 garnicas ausu dod. tad var ar tām iztikt 50 dienu. Bet pēc 12 dienām viņš pārdod 5 sirgus. un 18 dienas Mēlak atkal 5 sirgus. Cik ilgi nu sirgu anvelmanis ar ausām marcja iztikt priekš atlikušajiein nrgiein? Kalirlišu &gt;l?kabs.
-(Jsnāķums C7. nummurā.)

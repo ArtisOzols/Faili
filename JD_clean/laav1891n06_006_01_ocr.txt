@@ -1,4 +1,0 @@
-Matematisks uzdevums.
-Şchais rūlēs ir skaitļi no 1 līdz 49 tā jāsaraksta, ka, visadi skaitot, garam, šķērsam un pārstūreniski. iznāk 175.
-(Jsnākums 8. nummurā.)
-Sastādijis — I. Valters.

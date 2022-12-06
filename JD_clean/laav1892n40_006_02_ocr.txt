@@ -1,4 +1,0 @@
-Aritmetisks ucdevums.
-Rūtitēs minetie skaitļi tā japārraksta. ka tiklab stāvajās un šķērsu rindās, ka ari abos diagonālās esošo skaitļu summa iztaisa 35.
-(Uzminejums 42. nummura.)
-&lt;Uzdevis Tauriņu Atis.)
